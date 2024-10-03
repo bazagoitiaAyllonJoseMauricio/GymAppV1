@@ -1,2 +1,2 @@
 # GymAppV1
-App Que 
+App Que usa RFID para 
