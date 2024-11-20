@@ -8,7 +8,7 @@ import { getFirestore } from 'firebase/firestore';
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyBm9FP5WcXqgjJ3hiekSp8siZao2CsRTQQ",
+  apiKey: "AIAAzaSyBm9FP5WcXqgjJ3hiekSp8siZao2CsRTQQ",
   authDomain: "rfid-nfc-proyect.firebaseapp.com",
   databaseURL: "https://rfid-nfc-proyect-default-rtdb.firebaseio.com",
   projectId: "rfid-nfc-proyect",
